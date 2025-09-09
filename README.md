@@ -1,0 +1,1 @@
+This application lets the user fill out an EditText. If the user clicks the button, the text inside the EditText will fill the TextView above.
